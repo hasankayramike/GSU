@@ -1,0 +1,5 @@
+1 Mahmut 100
+2 Mehmet 0
+3 Tuncay 78
+4 Dursun 45
+5 Ali 37
